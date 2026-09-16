@@ -1,5 +1,5 @@
 import "./App.css";
-import Login from "./pages/Login/Login.jsx";
+import Login from "./pages/Login-Register/Login.jsx";
 import { Outlet } from "react-router-dom";
 import { Link } from "react-router-dom";
 
