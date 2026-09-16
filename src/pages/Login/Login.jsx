@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 
 function Login() {
   return (
-    !
     <div className={styles.loginPage}>
       <div className={styles.container}>
         <div className={styles.imgForm}>
